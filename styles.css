@@ -1,0 +1,33 @@
+.h1 {
+    color: #0070A0;
+    
+}
+
+h1:hover{
+    cursor:pointer;
+}
+
+.h2{
+    color: #48BCD6;
+}
+
+.h3{
+    color: #FEE287;
+}
+
+.h4{
+    color: #FFAB40;
+}
+
+.h5{
+    color: #E35333;
+}
+
+.h6{
+    color: #C73347;
+}
+
+li:hover{
+    cursor: pointer;
+    font-size: large;
+}
